@@ -1,0 +1,7 @@
+C:\Users\PAVILION GAMING\source\repos\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe.config
+C:\Users\PAVILION GAMING\source\repos\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.exe
+C:\Users\PAVILION GAMING\source\repos\CalculatorConsoleApp\CalculatorConsoleApp\bin\Debug\CalculatorConsoleApp.pdb
+C:\Users\PAVILION GAMING\source\repos\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.AssemblyReference.cache
+C:\Users\PAVILION GAMING\source\repos\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\PAVILION GAMING\source\repos\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.exe
+C:\Users\PAVILION GAMING\source\repos\CalculatorConsoleApp\CalculatorConsoleApp\obj\Debug\CalculatorConsoleApp.pdb
